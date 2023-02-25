@@ -1,4 +1,4 @@
-# Arithmetic Coding Binary
+# Arithmetic Coding Binary Algorithm
 
 # Faculty Of Computer And Artificial Intelligence Cairo University `FCAI-CU`
 
